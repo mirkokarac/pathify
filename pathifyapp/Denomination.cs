@@ -1,4 +1,4 @@
-﻿namespace pathifyapp.Controllers
+﻿namespace pathifyapp
 {
     public class Denomination
     {
