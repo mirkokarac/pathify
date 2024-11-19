@@ -3,7 +3,7 @@
 // REFERENCES
 // for dictionary -> https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2?view=net-8.0
 // for where clause -> https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.where?view=net-8.0
-// for convertion to in -> https://learn.microsoft.com/en-us/dotnet/api/system.convert.toint32?view=net-8.0
+// for convertion to int -> https://learn.microsoft.com/en-us/dotnet/api/system.convert.toint32?view=net-8.0
 
 
 namespace pathifyapp.Controllers
