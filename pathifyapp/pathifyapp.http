@@ -1,0 +1,6 @@
+@pathifyapp_HostAddress = http://localhost:5252
+
+GET {{pathifyapp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
